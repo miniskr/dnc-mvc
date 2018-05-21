@@ -1,0 +1,12 @@
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.deps.json
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.runtimeconfig.json
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.runtimeconfig.dev.json
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.dll
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\bin\Debug\netcoreapp2.0\IdentitySample.pdb
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.csprojResolveAssemblyReference.cache
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.csproj.CoreCompileInputs.cache
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.AssemblyInfoInputs.cache
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.AssemblyInfo.cs
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.dll
+F:\MyStudy\DotNetCore\dnc-mvc\IdentitySample\obj\Debug\netcoreapp2.0\IdentitySample.pdb
